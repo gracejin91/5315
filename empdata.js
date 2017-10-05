@@ -39,7 +39,7 @@
     {
       "name": "Gaoming Wu",
       "phone number": "253-098-4568",
-      "emial address": "wug8@seattleu.edu"
+      "email address": "wug8@seattleu.edu"
     
     },
     {
@@ -51,7 +51,7 @@
     {
       "name": "Ivy Su",
       "phone number": "206-123-4569",
-      "emial address": "sui@seattleu.edu"
+      "email address": "sui@seattleu.edu"
       
     },
     {
